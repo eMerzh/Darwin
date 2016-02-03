@@ -1,2 +1,4 @@
 exclude_patterns:
 	- lib/smb.class.php
+	- web/backend*.php
+	- web/frontend*.php
